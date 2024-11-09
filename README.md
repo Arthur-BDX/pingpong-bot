@@ -1,4 +1,4 @@
-PingPong Bot for Kleros SRE Test
+PingPong Bot for SRE Test
 This repository contains a bot that interacts with the PingPong smart contract deployed on the Sepolia test network. 
 The bot listens for Ping() events and responds with pong() using the transaction hash that emitted the Ping() event.
 
