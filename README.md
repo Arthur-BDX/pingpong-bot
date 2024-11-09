@@ -16,8 +16,8 @@ NPM (Node Package Manager).
 Setup
 Clone the repository:
 
-git clone https://github.com/Arthur-BDX/PingPong-Bot.git
-cd PingPong-Bot
+git clone https://github.com/Arthur-BDX/pingpong-bot.git
+cd pingpong-bot
 Install the dependencies:
 
 npm install
