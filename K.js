@@ -11,8 +11,8 @@ const keysRaw = fs.readFileSync('keys.json');
 const keys = JSON.parse(keysRaw);
 const privateKey = keys["private-key"];
 const publicKey = keys["public-key"];
-const telegramBotToken = '6535767737:AAGTXHBddQCH0Lq3sO_dQ0kAdok4tj5EGq8'; //Bot tokenID made with'BotFather'
-const telegramChatId = '1785961135'; //Chat to receive updates
+const telegramBotToken = ''; //Bot tokenID made with'BotFather'
+const telegramChatId = ''; //Chat to receive updates
 
 // Create the wallet instance with the private key and provider
 const wallet = new ethers.Wallet(privateKey, txProvider);
