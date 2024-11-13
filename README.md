@@ -29,5 +29,5 @@ Run the bot:
 
 npm start
 
-Address of the bot = "0xF039b5E4CC28Ac1E503b8cF69a640DC6bB9e24d7"
-The block number at which you started running it = 7037361
+Address of the bot = "0x42EdfDD2920821e12186C87801F3Abc50dCCC8d4"
+The block number at which you started running it = 7055176
